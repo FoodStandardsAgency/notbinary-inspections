@@ -1,1 +1,0 @@
-![Uploaded file](uploads/IMG-20200315-WA0008.jpg)

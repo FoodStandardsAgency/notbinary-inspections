@@ -1,2 +1,0 @@
-Paper prototypes are worked on in an iterative way. The full design process can be downloaded and contains all the images that document the journey that the design took to get to the final version (2.8):
-* [Zipped versions folder](https://drive.google.com/a/notbinary.co.uk/file/d/1J_FQsAtc3Jp_uc-rOSFGWl0_RdB8w7lX/view?usp=sharing)
